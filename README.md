@@ -6,10 +6,11 @@ Originally, the dataset contained combined data for all zones, but I manually se
 
 Each zone is analyzed independently to better capture its unique consumption behavior, seasonal trends, and anomaly patterns.
 
-## IMPORTANT NOTE: 
+## IMPORTANT NOTE
 The source of the dataset used in this project is [Kaggle](https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption)
 
-🧩 Key Steps in the Pipeline
+
+## 🧩 Key Steps in the Pipeline
 
 # 1. Data Preprocessing
 
